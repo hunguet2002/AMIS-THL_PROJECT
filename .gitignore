@@ -1,0 +1,24 @@
+# Temporary Office lock files
+~$*.xlsx
+~$*.docx
+~$*.pptx
+*.tmp
+*.temp
+*.bak
+
+# Logs & scratch
+*.log
+scratch/
+temp/
+
+# OS specific
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE and AI Tool configs
+.vscode/
+.idea/
+.cursor/
+.gemini/
+.system_generated/
